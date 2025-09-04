@@ -137,6 +137,7 @@ button:hover {
 }
 
 #question {
+    padding: 0 2rem 0 0;
     font-size: 1.3em;
     margin-bottom: 20px;
 }
