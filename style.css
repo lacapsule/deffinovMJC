@@ -199,7 +199,7 @@ button:hover {
   }
   #question {
     font-size: 1.08em;
-    padding: 0;
+    padding: 0 2rem 0 0;
   }
   #answer {
     font-size: 1em;
