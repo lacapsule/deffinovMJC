@@ -1,13 +1,14 @@
 document.addEventListener('DOMContentLoaded', () => {
     const questions = [
         { q: "Que signifie le C de MJC ?", answer: ["culture","Culture"] },
-        { q: "Nom du groupe du concert du 10 avril 2026 ?", answer: ["smooth motion","Smooth Motion"] },
-        { q: "Principale mission du SIJ ?", answer: ["informer","Informer"] },
-        { q: "Tarif d’adhésion à la MJC pour les jeunes de moins de 25 ans ?", answer: ["10euros","10 euros","10 €","10euro","10 euro","10e"] },
-        { q: "Comment se nomme l'espace de musiques actuelles de la MJC ?", answer: ["trockson","Trockson"] },
-        { q: "En Trois lettres, un dispositif du territoire s’articulant entre le BAFA et du bénévolat ?", answer: ["pec","PEC"] },
-        { q: "Nom de la bourse permettant une aide financière pour le permis pour les jeunes habitant Morlaix communauté ?", answer: ["pass’engagement","Pass’engagement","pass engagement","Pass engagement"] },
+        { q: "Nom du groupe du concert du 10 avril 2026 ?", answer: ["smooth motion","Smooth Motion","smoothmotion"] },
+        { q: "Principale mission du SIJ ?", answer: ["informer","renseigner","orienter","Informer","Renseigner","Orienter"] },
+        { q: "Tarif d’adhésion à la MJC pour les jeunes de moins de 25 ans ?", answer: ["10euros","10 euros","10 €","10euro","10 euro","10e","10","dix","10€"] },
+        { q: "Comment se nomme l'espace de musiques actuelles de la MJC ?", answer: ["trockson","Trockson","Trock'son","trock'son","Trock son"] },
+        { q: "Depuis quand existe le camion information jeunesse ?", answer: ["2021"] },
         { q: "Nombre d’activités proposées à la MJC ?", answer: ["dix-huit","Dix-huit","18"] },
+        { q: "Quelles sont les prénoms des animatrices information jeunesse de la MJC ?", answer: ["Pauline et Audrey","pauline et audrey","pauline","audrey"] },
+        { q: "Que veut dire MAO ?", answer: ["musique assistée par ordinateur","Musique assistée par ordinateur"] },
     ];
 
     let current = 0;
