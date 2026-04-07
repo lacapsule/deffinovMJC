@@ -151,9 +151,3 @@ Puis ouvrir `http://localhost:8080` dans le navigateur.
   - Bouton **Retour à l’accueil**.
 
 Aucune collecte de données personnelles, aucun compte utilisateur, aucun envoi de réponses vers un serveur : le comportement est entièrement **local au navigateur**.
-
----
-
-## Licence
-
-Voir le fichier `LICENSE` à la racine du dépôt.
