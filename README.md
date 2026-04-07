@@ -100,7 +100,7 @@ flowchart LR
 
 ---
 
-## 4. Méthode de déploiement — GitHub Pages
+## 4. Méthode de déploiement | GitHub Pages
 
 Le déploiement cible **GitHub Pages** : le contenu du dépôt est servi comme site statique.
 
